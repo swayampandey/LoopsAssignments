@@ -2,10 +2,7 @@ package com.bridgelabz.assignment;
 
 
 public class EvenOdd {
-	static int i;
-	static int j;
-	static int EvenSum;
-	static int OddSum;
+
 	public static void main(String[] args) {
 		int i,EvenSum=0,OddSum=0;
 		for(i=1;i<=20;i++) {
